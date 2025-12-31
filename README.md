@@ -1,4 +1,4 @@
-#PHP Vize & Final Not Hesaplama (OOP)
+# PHP Vize & Final Not Hesaplama (OOP)
 Açıklama: Bu proje, üniversite not sistemine uygun olarak öğrencinin Vize ve Final notlarını alıp, belirlenen ortalama ve baraj puanına göre geçme/kalma durumunu hesaplayan bir PHP uygulamasıdır. Kodlama yapısında PHP Nesne Yönelimli Programlama (OOP) prensipleri kullanılmıştır.
 
 Özellikler:
